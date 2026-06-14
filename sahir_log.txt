@@ -1,0 +1,295 @@
+Speed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/hSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/h/nSpeed is: 70 km/hSpeed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 70 km/h
+Speed is: 71 km/h
+Speed is: 72 km/h
+Speed is: 73 km/h
+Speed is: 75 km/h
+Speed is: 75 km/h
+Speed is: 72 km/h
+Speed is: 71 km/h
+Speed is: 72 km/h
+Speed is: 74 km/h
+Speed is: 75 km/h
+Speed is: 76 km/h
+Speed is: 76 km/h
+Speed is: 76 km/h
+Speed is: 77 km/h
+Speed is: 78 km/h
+Speed is: 78 km/h
+Speed is: 78 km/h
+Speed is: 77 km/h
+Speed is: 78 km/h
+Speed is: 78 km/h
+Speed is: 79 km/h
+Speed is: 79 km/h
+Speed is: 80 km/h
+Speed is: 81 km/h
+Speed is: 81 km/h
+Speed is: 81 km/h
+Speed is: 81 km/h
+Speed is: 81 km/h
+Speed is: 81 km/h
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 45.0 and needs to refuel
+Fuel is: 44.99998245614035 and needs to refuel
+Fuel is: 44.999947368421054 and needs to refuel
+Fuel is: 44.99957894736842 and needs to refuel
+Fuel is: 44.9985 and needs to refuel
+Fuel is: 44.99812614035088 and needs to refuel
+Fuel is: 44.997578947368424 and needs to refuel
+Fuel is: 44.99708210526315 and needs to refuel
+Fuel is: 44.99668052631579 and needs to refuel
+Fuel is: 44.99564035087719 and needs to refuel
+Fuel is: 44.99445333333333 and needs to refuel
+Fuel is: 44.994426491228076 and needs to refuel
+Fuel is: 44.99343859649123 and needs to refuel
+Fuel is: 44.99301307017544 and needs to refuel
+Fuel is: 44.99301307017544 and needs to refuel
+Fuel is: 44.99301307017544 and needs to refuel
+Fuel is: 44.99294736842105 and needs to refuel
+Fuel is: 44.99291666666667 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44.9928947368421 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
+Fuel is: 44 and needs to refuel
