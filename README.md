@@ -8,7 +8,7 @@ instead of buying an actual truck and expensive tracking hardware, I used Euro T
 
 connect a truck driving in the game to a live website. when the truck moves, loses fuel, changes gears - the website updates instantly. like a control room for a shipping company but for a game truck.
 
-## how i built it
+## How i built it
 
 kept it simple:
 
@@ -16,13 +16,13 @@ kept it simple:
 2. **Python + Flask backend** - pulls the live truck data and converts it to json that makes sense
 3. **HTML + JavaScript frontend** - refreshes every half second to show what's happening. it's a web page that stays in sync with the game
 
-## what's in here
+## What I used in the Project:
 
 - simulation environment: Euro Truck Simulator 2
 - server: Python & Flask
 - interface: HTML5 & JavaScript (fetching data live)
 
-## why i built this
+## Why i built this
 
 wanted to understand how real IoT devices and fleet tracking actually work. this project shows you can take massive amounts of data from a simulator and display it smoothly on a web page without everything getting slow. useful if you're building something similar for actual vehicles
 
