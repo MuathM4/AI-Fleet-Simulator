@@ -33,9 +33,9 @@ def get_driving_status(speed, speed_limit, fuel_percent, brake_input, accel_x):
     if brake_input > 0.8 and speed > 15:
         statuses.append("Hard Braking")
         
-    # 3. Harsh Cornering: Relying on lateral G-force (Accel_X) instead of steering input
-    # 0.3 represents a significant centrifugal force during a sharp turn
-    if speed > 20 and abs(accel_x) > 0.3:
+    # 3. Harsh Cornering: Adjusted for realism.
+    # Increased minimum speed to 30 km/h and G-Force threshold to 0.5 to ignore minor steering corrections.
+    if speed > 30 and abs(accel_x) > 0.5:
         statuses.append("Harsh Cornering")
         
     # 4. Low Fuel: Warning threshold set below 15%
