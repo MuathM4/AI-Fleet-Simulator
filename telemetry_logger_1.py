@@ -26,7 +26,7 @@ def get_driving_status(speed, speed_limit, fuel_percent, brake_input, accel_x):
     statuses = []
     
     # 1. Speeding: Check if driving faster than the road limit
-    if speed_limit > 0 and speed >= speed_limit:
+    if speed_limit > 0 and speed >= (speed_limit + 5):  # Allow 5 km/h tolerance
         statuses.append("Speeding")
         
     # 2. Hard Braking: Added speed condition to prevent logging while stationary
@@ -47,7 +47,7 @@ def get_driving_status(speed, speed_limit, fuel_percent, brake_input, accel_x):
 def main():
     file_exists = os.path.isfile(CSV_FILE)
     
-    print("🚀 AI-Fleet-Simulator Logger Started...")
+    print(" AI-Fleet-Simulator Logger Started...")
     print("-" * 60)
 
     with open(CSV_FILE, "a", newline="", encoding="utf-8") as file:
@@ -56,7 +56,7 @@ def main():
         # Initialize headers if the file is new
         if not file_exists:
             writer.writerow(HEADERS)
-            print("📝 Created new file with advanced telemetry column names.")
+            print(" Created new file with advanced telemetry column names.")
 
         while True:
             start_time = time.time()  
@@ -72,7 +72,7 @@ def main():
 
                 if is_paused:
                     timestamp = datetime.now().strftime("%H:%M:%S")
-                    print(f"[{timestamp}] ⏸️ Game Paused. Logging suspended...")
+                    print(f"[{timestamp}]  Game Paused. Logging suspended...")
                     
                     # Calculate sleep time to maintain interval even while paused
                     elapsed_time = time.time() - start_time
@@ -135,11 +135,11 @@ def main():
                 print(f"[{timestamp}] Speed: {int(speed_kmh)} km/h | Accel_X: {round(accel_x, 2)} | Status: {driving_status}")
 
             except requests.exceptions.RequestException:
-                print("⚠️ Could not connect to the Telemetry Server")
+                print(" Could not connect to the Telemetry Server")
             except KeyError as e:
-                print(f"⚠️ Missing data from the game: {e}")
+                print(f" Missing data from the game: {e}")
             except Exception as e:
-                print(f"⚠️ Unexpected Error: {e}")
+                print(f" Unexpected Error: {e}")
 
             # Dynamic sleep calculation
             elapsed_time = time.time() - start_time
