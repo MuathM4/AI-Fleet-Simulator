@@ -1,79 +1,63 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>لوحة تحكم أسطول النقل | A'id Transport</title>
-    <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #1a1a1a; color: #fff; margin: 20px; }
-        .dashboard { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px; }
-        .card { background-color: #2d2d2d; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align: center; border-top: 4px solid #00adb5; }
-        .card h3 { margin: 0; color: #aaaaaa; font-size: 14px; }
-        .card p { margin: 10px 0 0 0; font-size: 28px; font-weight: bold; color: #00adb5; }
-        .status { padding: 10px; border-radius: 5px; text-align: center; font-weight: bold; margin-bottom: 20px; }
-        .online { background-color: #2e7d32; }
-        .offline { background-color: #c62828; }
-    </style>
+<!-- saved from url=(0078)http://192.168.100.30:25555/dashboard-host.html?skin=RD-Info&ip=192.168.100.30 -->
+<html xmlns="http://www.w3.org/1999/xhtml"><!--==============================================================
+    *** DO NOT CHANGE THIS HTML FILE ***
+================================================================--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>ETS2/ATS Dashboard</title>
+    <link rel="apple-touch-icon" href="http://192.168.100.30:25555/images/app-icon.png">
+    <link rel="shortcut icon" href="http://192.168.100.30:25555/images/app-icon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;">
+    <link rel="stylesheet" href="./ETS2 Dashboard_files/dashboard-host.css"><link rel="stylesheet" href="./ETS2 Dashboard_files/dashboard.css" type="text/css">
+    <meta id="viewport" name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 </head>
-<body>
+<body style="transform: scale(0.4875);">
+    <!-- dashboard.html skin file will be inserted right here at runtime -->
+    <script src="./ETS2 Dashboard_files/jquery.min.js.download"></script>
+    <script src="./ETS2 Dashboard_files/jquery.signalR-2.2.0.min.js.download"></script>
+    <script src="./ETS2 Dashboard_files/cordova.js.download"></script>
+    <script src="./ETS2 Dashboard_files/platformOverrides.js.download"></script>
+    <script src="./ETS2 Dashboard_files/dashboard-core.js.download"></script>
+    <script src="./ETS2 Dashboard_files/config.js.download"></script>
+    <script src="./ETS2 Dashboard_files/app.js.download"></script>
 
-    <h2>لوحة مراقبة الشاحنة الحية (Fleet Telematics)</h2>
-    <div id="connection-status" class="status offline">جاري الاتصال بالسيرفر المحّلي...</div>
 
-    <div class="dashboard">
-        <div class="card">
-            <h3>معرّف الشاحنة</h3>
-            <p id="truck-id">--</p>
-        </div>
-        <div class="card">
-            <h3>السرعة (كم/ساعة)</h3>
-            <p id="speed">0</p>
-        </div>
-        <div class="card">
-            <h3>ناقل الحركة (Gear)</h3>
-            <p id="gear">0</p>
-        </div>
-        <div class="card">
-            <h3>دوران المحرك (RPM)</h3>
-            <p id="rpm">0</p>
-        </div>
-        <div class="card">
-            <h3>مستوى الوقود (لتر)</h3>
-            <p id="fuel">0</p>
-        </div>
+<div class="dashboard game-connected" style="position: absolute; left: 0px; top: 0px; width: 1920px; height: 1440px;" data-value="false">
+	<div class="hasJob" data-value="false">
+    	<div class="truck-displayedGear" data-value="N">N</div>
+		<div class="truck-wearEngine" data-value="0%">0%</div>
+		<div class="truck-wearTransmission" data-value="0%">0%</div>
+		<div class="truck-wearCabin" data-value="0%">0%</div>
+		<div class="truck-wearWheels" data-value="0%">0%</div>
+		<div class="truck-wearChassis" data-value="0%">0%</div>
+		<div class="trailer-wear" data-value="0%">0%</div>
+		<div class="truck-make" data-value=" "> </div>
+		<div class="truck-lightsBeamLowOn" data-value="false"></div>
+		<div class="truck-lightsParkingOn" data-value="false"></div>
+		<div class="truck-lightsBeamHighOn" data-value="false"></div>
+		<div class="truck-cruiseControlOn" data-value="false"></div>
+		<div class="truck-parkBrakeOn" data-value="false"></div>
+		<div class="_airPressureOn" data-value="false"></div>
+		<div class="truck-fuel" data-value="0L">0L</div>
+		<div class="truck-fuelAverageConsumption" data-value="0.0L">0.0L</div>
+		<div class="_fuelAvg" data-value="x 100Km">x 100Km</div>
+		<div class="_gameBrakeBar" style="width: 0px;"></div>
+		<div class="_userBrakeBar" style="width: 0px;"></div>
+		<div class="_gameThrottleBar" style="width: 0px;"></div>
+		<div class="_userThrottleBar" style="width: 0px;"></div>
+		<div class="truck-lightsBeaconOn" data-value="false"></div>
+        <div class="_dangerWarning" data-value="false"></div>
+        <div class="_auxLights"></div>
+        <div class="truck-lightsParkingOn" data-value="false"></div>
+        <div class="navigation-speedLimit" data-value="0" style="color: rgb(255, 0, 0);">0</div>
+        <!--Job-->
+        <div class="job-remainingTime" data-value=""></div>
+        <div class="job-sourceCity" data-value=" ()"> ()</div>
+		<div class="job-destinationCity" data-value=" ()"> ()</div>
+		<div class="_jobIncome">€<span class="job-income" data-value="0">0</span></div>
+		<div class="trailer-name" data-value=" (0t)"> (0t)</div>
     </div>
-
-    <script>
-        const API_URL = "http://127.0.0.1:5000/api/fleet/telemetry";
-
-        async function fetchTelemetry() {
-            try {
-                const response = await fetch(API_URL);
-                if (response.status === 200) {
-                    const data = await response.json();
-                    
-                    if (data.isGameConnected) {
-                        document.getElementById("connection-status").className = "status online";
-                        document.getElementById("connection-status").innerText = "البث الحي نشط ومستقر";
-                        
-                        document.getElementById("truck-id").innerText = data.truck_id;
-                        document.getElementById("speed").innerText = data.telemetry.speed;
-                        document.getElementById("gear").innerText = data.telemetry.gear;
-                        document.getElementById("rpm").innerText = data.telemetry.engine_rpm;
-                        document.getElementById("fuel").innerText = data.telemetry.fuel_liters;
-                    } else {
-                        document.getElementById("connection-status").className = "status offline";
-                        document.getElementById("connection-status").innerText = "اللعبة تعمل لكنك خارج طور القيادة";
-                    }
-                }
-            } catch (error) {
-                document.getElementById("connection-status").className = "status offline";
-                document.getElementById("connection-status").innerText = "فشل الاتصال بسيرفر البايثون الداخلي";
-            }
-        }
-
-        // عمل Polling بمعدل مرتين في الثانية (500ms) لمطابقة الـ Sampling Rate الخاص بالـ Backend
-        setInterval(fetchTelemetry, 500);
-    </script>
-</body>
-</html>
+</div><script src="./ETS2 Dashboard_files/hubs"></script><script src="./ETS2 Dashboard_files/dashboard.js.download"></script></body></html>
